@@ -16,6 +16,15 @@ Python GIS analysis of Landsat data comparing urban vs rural land surface temper
   - Scene Cloud Cover: 15.57%
 
 ---
+## 📂 Data Sources
+- **Landsat 8 Surface Temperature (GeoTIFF):**  
+  [USGS EarthExplorer – LC80470262025192LGN00](https://earthexplorer.usgs.gov/scene/metadata/full/5e83d14f2fc39685/LC80470262025192LGN00/)  
+
+- **Rural Administrative Boundaries (GeoJSON):**  
+  [BC Data Catalogue – Legally Defined Administrative Areas](https://catalogue.data.gov.bc.ca/dataset/legally-defined-administrative-areas-of-bc)  
+
+*(Due to large file sizes, the datasets are not stored in this repository. Please download them from the above links before running the code.)*  
+
 
 ## Tools & Libraries
 
