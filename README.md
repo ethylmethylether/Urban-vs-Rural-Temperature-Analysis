@@ -1,8 +1,6 @@
 # Urban-vs-Rural-Temperature-Analysis
-Python GIS analysis of Landsat data comparing urban vs rural land surface temperature (LST), with maps, plots, and CSV outputs.
-# Urban vs Rural Temperature Analysis
 
-This project compares land surface temperature (LST) between an urban center (Vancouver, BC) and surrounding rural areas using **Landsat 8/9 satellite imagery** and **Python GIS tools**.
+Python GIS analysis of Landsat data comparing urban vs rural land surface temperature (LST), with maps, plots, and CSV outputs using **Landsat 8/9 satellite imagery** and **Python GIS tools**.
 
 ---
 
